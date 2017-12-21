@@ -1,0 +1,13 @@
+Write functionality is described below:
+
+1) A New User Can be created
+2) Credentials of an existing user can be updated
+3) A User can write a review
+4) A user can delete a review
+5) A User can make a restaurant reservation
+6) A user can make a hotel booking
+7) A user can delete exisitng hotel booking
+8) A user can book more tickets for a concert
+9) A user can delete any exisitng concert ticket reservations
+
+

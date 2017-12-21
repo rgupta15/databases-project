@@ -1,0 +1,39 @@
+The landing page is https://mpcs53001.cs.uchicago.edu/~rgupta15/yelp/SemiFinal.html
+
+Here you have 2 options: 
+
+1) Existing User (Implemented): You can sign in with some of the registered users as mentioned below(to name a few):
+
+1,Rohit Gupta,22,rohit7195@gmail.com,123 (email =rohit7195@gmail, password = 123 )
+2,Alan Smith,35,alansmith@yahoo.com,123 (email =alansmith@yahoo.com, password = 123 )
+
+First function is implemented here as it checks for valid user based on email and password
+
+2) New User (Not Implemented): Terminates at a ending page
+
+Upon succesful sign in you can enter your current city. You will have 4 options. NYC is the default checked option. 
+Upon selection and submit, you will be redirected to a page that gives you the following 3 options (have to select one of the options to progress)
+
+
+1) Restaurants
+
+a) All restaurants lists all the restaurants in the user specified city. (Second Function implemented here)
+b) Restaraunt by your favorite cuisine allows user to determine his favorite cuisine. Then a page with all restaurants offering that cuisine in the user specified city is displayed (Third function implemented here)
+c) Past reviews allows the user to see all his/her past reviews for restaurants in the user specified city (Fourth function implemented here)
+d) Write new review allows the user to write a new review (not implemented )
+e) See my reservations allows the user to check his/her reservations for restaunts in chosen city (Fifth function implemented here)
+
+2) Hotels
+
+a) All hotels near me lists all the hotels in the user specified city(6th function)
+b) Hotels by popularity returns hotels that have maximum bookings. If bookings is the same, display hotels by decreasing rating (7th function)
+c) check users existing hotel bookings in the user specified city (8th function)
+d) Make new booking not yet implemented
+
+3) Concerts
+a) All concerts near me returns all concerts by artist name, genre and date of performance in the user specified city (9th function)
+b) Concerts by favorite genre allows user to pick his/her favorite genre and returns concerts by artist name, genre and date of performance based on the specified genre and city (10th function)
+c) Check existing booking allows the user to see his existing concert reservations by artist name, date of performance and num of tickets he/she has purchased. (11th function)
+d) Make new booking allows the user to create a new booking. (not yet implemented)
+
+
